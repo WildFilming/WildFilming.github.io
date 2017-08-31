@@ -1,3 +1,4 @@
+<?php die("a:); ?>
 <!DOCTYPE html>
 <html>
 <head>
