@@ -1,7 +1,8 @@
+<?php die("Test..."); ?>
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<title>Page Title2</title>
 </head>
 <body>
 
